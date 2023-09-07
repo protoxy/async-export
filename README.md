@@ -4,7 +4,7 @@ This is a Meteor.js application that simulates an async export progress with a u
 It uses Meteor's reactivity and methods to interact with the database and update the progress. 
 
 ## Demo 
-async-export.eu.meteorapp.com/
+https://async-export.eu.meteorapp.com/
 
 ## Getting Started
 
